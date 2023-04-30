@@ -1,2 +1,7 @@
-#new file with no comment
-Ok now i just created and pushed file => this is the second commit.
+Hi there! My name is [Your Name] and I recently completed my Bachelor of Science in Computer Science degree. As a recent graduate, I am eager to pursue my passions for both Artificial Intelligence (AI) development and web development.
+
+Throughout my academic journey, I have gained expertise in programming languages such as Java, Python, and C++. Additionally, I have experience working with machine learning frameworks such as Scikit-learn, TensorFlow, and Keras to build predictive models and analyze large datasets. I also have experience with web development technologies such as HTML, CSS, JavaScript, and PHP.
+
+My primary interest lies in the fields of AI development and web development, and I am excited to explore new technologies and techniques in both areas. In my free time, I enjoy participating in online communities and attending conferences to stay up-to-date with the latest trends in these fields.
+
+I am actively seeking opportunities to work with like-minded individuals and contribute my skills to projects that will make a positive impact in both the field of AI and web development. Thank you for considering me for any upcoming positions in these areas!
